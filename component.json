@@ -1,0 +1,13 @@
+{
+    "name"         : "jquery.uploader",
+    "version"      : "1.0.0",
+    "description"  : "jQuery Uploader",
+    "main"         : [ "./jquery.uploader.js" ],
+    "dependencies" : {
+        "jquery" : ">= 1.7.x"
+    },
+    "keywords"     : [
+        "jquery",
+        "uploader"
+    ]
+}
